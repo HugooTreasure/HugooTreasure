@@ -1,6 +1,6 @@
 ## Hi there 👋
+Boa tarde esse é meu perfil estou fazendo o curso de programação
 
-<!--
 **HugooTreasure/HugooTreasure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
